@@ -45,5 +45,12 @@ if (gender == "male" || Age >= 18) {
   console.log("child");
 }
 
-user && <></>
-user ? "profile" : "login" 
+
+
+const k = 10;
+console.log(k>10);
+console.log(k<10);
+console.log(k>=10);
+console.log(k==10)
+console.log(k<=10)
+
